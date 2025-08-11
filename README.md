@@ -9,7 +9,6 @@ It includes:
 - Model export for deployment
 - Streamlit web app for predictions
 
----
 
 
 
@@ -65,7 +64,7 @@ Heart_Disease_Project/
 
 
 
----
+
 
 ## 📊 Dataset
 - **Source:** UCI Heart Disease Dataset
@@ -110,12 +109,12 @@ We trained:
 ## 📉 Confusion Matrices & ROC Curves
 
 **Random Forest (Best Model):**
-![Random Forest CM & ROC](data/plots/random_forest_cm_roc.png)
+![Random Forest CM & ROC](Heart_Disease_Project/data/plots/random_forest_cm_roc.png)
 
 **Other Models:**
 | Logistic Regression | Decision Tree | SVM |
 |---------------------|---------------|-----|
-| ![Logistic Regression CM & ROC](data/plots/logistic_regression_cm_roc.png) | ![Decision Tree CM & ROC](data/plots/decision_tree_cm_roc.png) | ![SVM CM & ROC](data/plots/svm_cm_roc.png) |
+| ![Logistic Regression CM & ROC](Heart_Disease_Project/data/plots/logistic_regression_cm_roc.png) | ![Decision Tree CM & ROC](Heart_Disease_Project/data/plots/decision_tree_cm_roc.png) | ![SVM CM & ROC](Heart_Disease_Project/data/plots/svm_cm_roc.png) |
 
 ---
 
