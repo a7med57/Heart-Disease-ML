@@ -15,47 +15,47 @@ It includes:
 Heart_Disease_Project/
 │
 ├── data/ # Raw & processed datasets + plots
-│ ├── heart.csv
-│ ├── Decision Tree.png
-│ ├── Dendogram.png
-│ ├── feature_corr.png
-│ ├── KMean.png
-│ ├── PCA_projection.png
-│ ├── PCA_Var.png
-│ ├── Random Forest.png
-│ ├── SVM.png
-│ ├── ROC.png
-│ ├── target_dist.png
-│ └── plots/
-│     ├── logistic_regression_cm_roc.png
-│     ├── decision_tree_cm_roc.png
-│     ├── random_forest_cm_roc.png
-│     └── svm_cm_roc.png
+│       ├── heart.csv
+│       ├── Decision Tree.png
+│       ├── Dendogram.png
+│       ├── feature_corr.png
+│       ├── KMean.png
+│       ├── PCA_projection.png
+│       ├── PCA_Var.png
+│       ├── Random Forest.png
+│       ├── SVM.png
+│       ├── ROC.png
+│       ├── target_dist.png
+│       └── plots/
+│           ├── logistic_regression_cm_roc.png
+│           ├── decision_tree_cm_roc.png
+│           ├── random_forest_cm_roc.png
+│           └── svm_cm_roc.png
 │     
 │
 ├── model/
-│ └── final_model.pkl # Best trained model
+│       └── final_model.pkl # Best trained model
 │
 ├── notebooks/ # All Jupyter notebooks
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_pca_analysis.ipynb
-│ ├── 03_feature_selection.ipynb
-│ ├── 04_supervised_learning.ipynb
-│ ├── 05_unsupervised_learning.ipynb
-│ └── 06_hyperparameter_tuning.ipynb
+│       ├── 01_data_preprocessing.ipynb
+│       ├── 02_pca_analysis.ipynb
+│       ├── 03_feature_selection.ipynb
+│       ├── 04_supervised_learning.ipynb
+│       ├── 05_unsupervised_learning.ipynb
+│       └── 06_hyperparameter_tuning.ipynb
 │
 ├── results/ # All Jupyter notebooks
-│ ├── cleaned_heart.csv
-│ ├── clustring_results.csv
-│ ├── feature_importance.csv
-│ ├── pca_heart.csv
-│ └── selected_features.txt
+│       ├── cleaned_heart.csv
+│       ├── clustring_results.csv
+│       ├── feature_importance.csv
+│       ├── pca_heart.csv
+│       └── selected_features.txt
 │
 ├── ui/
-│ └── app.py # Streamlit app for predictions
+│       └── app.py # Streamlit app for predictions
 │
 ├── deployment/
-│ └── run_app_with_ngrok.py # Ngrok 
+│       └── run_app_with_ngrok.py # Ngrok 
 ├── requirements.txt
 └── README.md
 
