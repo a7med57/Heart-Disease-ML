@@ -28,7 +28,7 @@ Heart_Disease_Project/
 │       ├── SVM.png
 │       ├── ROC.png
 │       ├── target_dist.png
-│       └── plots/
+│       ├── plots/
 │       │   ├── logistic_regression_cm_roc.png
 │       │   ├── decision_tree_cm_roc.png
 │       │   ├── random_forest_cm_roc.png
