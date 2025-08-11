@@ -13,7 +13,7 @@ It includes:
 
 
 ## 📂 Project Structure
-
+```text
 Heart_Disease_Project/
 │
 ├── data/                 # Raw & processed datasets + plots 
@@ -59,7 +59,7 @@ Heart_Disease_Project/
 │  └── run_app_with_ngrok.py # Ngrok  
 ├── requirements.txt 
 └── README.md 
-
+```
 
 
 
