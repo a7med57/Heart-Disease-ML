@@ -84,10 +84,10 @@ Heart_Disease_Project/
 ## 📈 Exploratory Data Analysis (EDA)
 
 **Target Distribution:**
-![Target Distribution](data/target_dist.png)
+![Target Distribution](Heart_Disease_Project/data/target_dist.png)
 
 **Feature Correlation Heatmap:**
-![Feature Correlation](data/feature_corr.png)
+![Feature Correlation](Heart_Disease_Project/data/feature_corr.png)
 
 ---
 
