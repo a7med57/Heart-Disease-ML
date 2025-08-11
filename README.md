@@ -113,11 +113,15 @@ We trained:
 
 ---
 
+## 🚀 Run the Streamlit App
+
+    python deployment/run_app_with_ngrok.py
+
 ## ⚙️ Installation
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/heart-disease-prediction.git
-cd heart-disease-prediction
+git clone https://github.com/a7med57/Heart-Disease-ML.git
+cd Heart-Disease-ML 
 
 # Install dependencies
 pip install -r requirements.txt
