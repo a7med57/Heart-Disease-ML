@@ -10,7 +10,7 @@ It includes:
 - Streamlit web app for predictions
 
 
-
+---
 
 ## 📂 Project Structure
 ```text
@@ -62,7 +62,7 @@ Heart_Disease_Project/
 ```
 
 
-
+---
 
 
 
