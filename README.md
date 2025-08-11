@@ -29,11 +29,11 @@ Heart_Disease_Project/
 │       ├── ROC.png
 │       ├── target_dist.png
 │       └── plots/
-│           ├── logistic_regression_cm_roc.png
-│           ├── decision_tree_cm_roc.png
-│           ├── random_forest_cm_roc.png
-│           └── svm_cm_roc.png
-│     
+│       │   ├── logistic_regression_cm_roc.png
+│       │   ├── decision_tree_cm_roc.png
+│       │   ├── random_forest_cm_roc.png
+│       │   └── svm_cm_roc.png
+│       └── cleaned_heart.csv 
 │
 ├── model/
 │       └── final_model.pkl # Best trained model
